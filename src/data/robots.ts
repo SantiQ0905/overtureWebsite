@@ -84,6 +84,10 @@ export const robots: Robot[] = [
         label: 'Onshape',
         url: 'https://cad.onshape.com/documents/7277e04136a3819938e37df3/w/7ab5082c987248f1c211a53a/e/a49395ea5f1eccc4bc12e446',
       },
+      {
+        label: 'Open Alliance Build Blog',
+        url: 'https://www.chiefdelphi.com/t/overture-23619-ftc-build-blog-2025-2026-open-alliance/508083?u=leyva',
+      },
     ],
     copy: {
       es: {
@@ -131,6 +135,10 @@ export const robots: Robot[] = [
         label: 'Onshape',
         url: 'https://cad.onshape.com/documents/3118dba012f7b01a185b682e/w/c2cf783002ba68b893c35c99/e/c515736f5cc04815a149d76d',
       },
+      {
+        label: 'Open Alliance Build Blog',
+        url: 'https://www.chiefdelphi.com/t/overture-23619-26381-ftc-build-blog-2024-2025-open-alliance/473441?u=leyva',
+      },
     ],
     copy: {
       es: {
@@ -177,6 +185,10 @@ export const robots: Robot[] = [
       {
         label: 'Onshape',
         url: 'https://cad.onshape.com/documents/c457ba5fc5a12ff46e2cc264/w/dd07e06a97381a1eed2923d3/e/9d12cc5bd19c6c627224430d',
+      },
+      {
+        label: 'Open Alliance Build Blog',
+        url: 'https://www.chiefdelphi.com/t/overture-23619-26381-ftc-build-blog-2024-2025-open-alliance/473441?u=leyva',
       },
     ],
     copy: {
@@ -267,6 +279,10 @@ export const robots: Robot[] = [
         label: 'Onshape (2.0)',
         url: 'https://cad.onshape.com/documents/b0bd25b39e02244254aef7a0/w/89dd967bdfb693acfa78ca96/e/77b552295b581418d285c856',
       },
+      {
+        label: 'Open Alliance Build Blog',
+        url: 'https://www.chiefdelphi.com/t/overture-7421-build-blog-2026-open-alliance/510279?u=leyva',
+      },
     ],
     copy: {
       es: {
@@ -321,6 +337,10 @@ export const robots: Robot[] = [
         label: 'Onshape (2.0)',
         url: 'https://cad.onshape.com/documents/e3d9b34aa3ad383a1fba7755/w/8a392f7a410bd89245b839be/e/9d69d458f2bc0d882295ef7e',
       },
+      {
+        label: 'Open Alliance Build Blog',
+        url: 'https://www.chiefdelphi.com/t/overture-7421-build-blog-2025-open-alliance/474777?u=leyva',
+      },
     ],
     copy: {
       es: {
@@ -374,6 +394,10 @@ export const robots: Robot[] = [
       {
         label: 'Onshape (Off-season)',
         url: 'https://cad.onshape.com/documents/a4bf027ffe03cb9046da3ddf/w/563b13dc5deb818f0e56fb66/e/4c1595fee31f7b5a9a219980',
+      },
+      {
+        label: 'Open Alliance Build Blog',
+        url: 'https://www.chiefdelphi.com/t/overture-7421-build-blog-2024-open-alliance/446286?u=leyva',
       },
     ],
     copy: {
